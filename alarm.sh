@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # format time
 function displaytime {
     local t=$1
